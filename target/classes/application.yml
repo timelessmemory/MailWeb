@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.163.com
+    username: lijianfeitime@163.com
+    password: 842976589ljf
+    properties:
+      mail:
+        smtp:
+          auth: true
+        starttls:
+          enable: true
+          required: true
